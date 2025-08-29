@@ -1,22 +1,9 @@
 Iphone Data Analysis
 ------------------------
 
-A data-driven analysis project built using Python & Pandas to explore, clean, and analyze iPhone product data from Flipkart.
+A data-driven analysis project built using Python & Pandas to explore, clean, and analyze Iphone product data from.
 
 It provides insights into pricing trends, discounts, ratings, reviews, and product performance with deep analysis across iPhone models, storage capacities, and colors.
-
-
-It helps identify:
-
-Most popular iPhone models
-
-Best rating-to-review ratios
-
-High-end pricing trends
-
-Discounts and offers
-
-Storage and color preferences of customers
 
 Tech Stack
 ------------------------
